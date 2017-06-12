@@ -1,4 +1,5 @@
 def test():
-	print 'hello'
+    print('yes')
+
 
 test()
